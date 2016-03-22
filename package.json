@@ -9,7 +9,10 @@
     "cordova-plugin-console",
     "ionic-plugin-keyboard"
   ],
-  "cordovaPlatforms": [],
+  "cordovaPlatforms": [
+    "android",
+    "ios"
+  ],
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-livereload": "^3.8.1",
